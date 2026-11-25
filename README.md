@@ -4,12 +4,12 @@ Bu proje HTML, CSS ve JavaScript ile hazırlanmış statik kişisel portfolyo si
 
 ## Yayınlama
 
-1. GitHub'da `fbugraovat1.github.io` adında yeni bir **public** repository oluştur.
+1. GitHub'da `fahrettinbugraovat.github.io` adında yeni bir **public** repository oluştur.
 2. Bu klasördeki `index.html`, `style.css`, `script.js` ve `README.md` dosyalarını repository'nin kök dizinine yükle.
 3. Repository içinde **Settings → Pages** bölümüne gir.
 4. **Deploy from a branch** seçeneğini seç.
 5. Branch olarak `main`, klasör olarak `/ (root)` seçip **Save** düğmesine bas.
-6. Birkaç dakika sonra `https://fbugraovat1.github.io` adresini kontrol et.
+6. Birkaç dakika sonra `https://fahrettinbugraovat.github.io` adresini kontrol et.
 
 ## Yayınlamadan önce kişiselleştir
 
